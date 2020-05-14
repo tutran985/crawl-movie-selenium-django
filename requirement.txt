@@ -1,0 +1,8 @@
+psycopg2
+Django
+selenium
+djangorestframework
+pygments
+django-rest-swagger
+drf-yasg
+requests

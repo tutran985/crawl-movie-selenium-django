@@ -1,0 +1,4 @@
+.vscode
+bin/headless-chromium
+bin/headless-chromium-v69
+.venv
